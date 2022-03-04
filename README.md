@@ -64,5 +64,31 @@ DAY 008/100: 08 MARCH 2022
                   a. Create a 'simplecalculator' class that would have method to perform addition, subtraction, multiplication and division operations.
                   b. Create a getter setter class that would help user get and set the values on which operation is to be performed.
                   c. Create a main class from where the operation to be performed is called.
+          
+DAY 009/100: 09 MARCH 2022
+
+      (i)  Java Program:
+                  a. To create a restaurant menu application using Java Switch case that would let user place their orders.
+                  b. After order is placed, menu would reappear to let user place order again (if they want to).
+                  c. Provide option to exit from the menu.
+      (ii) ATM (Java) Menu Driven Program. 
+
+DAY 010/100: 10 MARCH 2022
+
+      (i) Convert java.util.Date to java.sql.Date
+
+DAY 011/100: 11 MARCH 2022
+
+      (i)   Java Program to handle Arithmetic Exception.
+      (ii)  Java Program to handle ArrayIndexOutOfBoundEx.
+      (iii) Java Program to handle NullPointer Exception.
+      (iv)  Java Program to handle multiple exceptions.
+      (v)   Java Try-Finally Program.
       
-      
+DAY 012/100: 12 MARCH 2022
+
+
+
+
+
+
