@@ -38,7 +38,13 @@ DAY 004/100: 04 MARCH 2022
       
 DAY 005/100: 05 MARCH 2022
 
+      (i)  Java Program to check for odd or even number using ternary operator.
+      (ii) Java Program to find greatest of three numbers using ternary operator.
+
 DAY 006/100: 06 MARCH 2022
+
+      (i) Java program to insert elements in an array. 
+      (ii) 
 
 DAY 007/100: 07 MARCH 2022
       
