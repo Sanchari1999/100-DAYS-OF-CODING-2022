@@ -30,7 +30,7 @@ DAY 003/100: 03 MARCH 2022
 
 DAY 004/100: 04 MARCH 2022
 
-      (i)  Java Program to call a method of another class:
+      (i) Java Program to call a method of another class:
                           a. Calling a default/public method.
                           b. Calling a static method.
                           c. Calling a private method.
@@ -43,8 +43,26 @@ DAY 005/100: 05 MARCH 2022
 
 DAY 006/100: 06 MARCH 2022
 
-      (i) Java program to insert elements in an array. 
-      (ii) 
+      (i)   Java program to insert elements in an array. 
+      (ii)  Java Program to find largest integer element in an array.
+      (iii) Java Program to count number of odd integers in an array.
+      (iv)  Java Program to print integer elements in an array in reverse.
+      (v)   Java Program to calculate average of all the inter elements in an array.
 
 DAY 007/100: 07 MARCH 2022
+      
+      (i)   Java Program to compare two strings.
+      (ii)  Java Program to split array at the delimiter.
+      (iii) Java Program to count characters in a string.
+      (iv)  Java Program to count the number of words in a string.
+      (v)   Java program to append strings.
+      (vi)  Java Program to reverse a given string.
+      
+DAY 008/100: 08 MARCH 2022      
+      
+      (i) Java Program to:
+                  a. Create a 'simplecalculator' class that would have method to perform addition, subtraction, multiplication and division operations.
+                  b. Create a getter setter class that would help user get and set the values on which operation is to be performed.
+                  c. Create a main class from where the operation to be performed is called.
+      
       
