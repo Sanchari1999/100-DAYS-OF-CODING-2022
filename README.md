@@ -67,11 +67,18 @@ DAY 008/100: 08 MARCH 2022
           
 DAY 009/100: 09 MARCH 2022
 
-      (i)  Java Program:
+      (i)   Java Program:
                   a. To create a restaurant menu application using Java Switch case that would let user place their orders.
                   b. After order is placed, menu would reappear to let user place order again (if they want to).
                   c. Provide option to exit from the menu.
-      (ii) ATM (Java) Menu Driven Program. 
+      (ii)  Java menu driven program that creates hotel menu to help customers place orders for:
+                  a. South Indian Dish - Idli : 2 Pieces, Butter Cheese Dosa : 1 Pieces, Vada : 2 Pieces
+                  b. North Indian Dish - Chole Bhature : 2 Pieces, Litti Chokha : 4 Pieces
+                  c. Rajasthani Dish - Dal Baati Churma, Laal maas, Methi Bajra puri
+                  d. Gujrati Dish - Dhokla : 2 pieces, Khandvi, Methi ka Thepla
+                  e. Bengali Dish - Maach Bhaat, Alu Luchi
+                  f. Desserts - Rasmalai, Rasgulla : 2 Pieces, Emarti : 2 Pieces, Gajar ka halwa
+      (iii) ATM (Java) Menu Driven Program. 
 
 DAY 010/100: 10 MARCH 2022
 
@@ -87,17 +94,33 @@ DAY 011/100: 11 MARCH 2022
       
 DAY 012/100: 12 MARCH 2022
 
-      HTML: FREECODECAMP SOLUTIONS
+      Basic HTML and HTML5: FREECODECAMP SOLUTIONS (Part 01)
       
-      (i) Change your h1 element's text to say "Hello World".
-      (ii) Add an h2 tag that says "CatPhotoApp" to create a second HTML element below your "Hello World" h1 element.
-      (iii) Create a p element below your h2 element, and give it the text Hello Paragraph.
-      (iv) Replace the text inside your p element with the first few words of this kitty ipsum text: Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.
-      (v) Uncomment your h1, h2 and p elements.
-      (vi) Comment out your h1 element and your p element, but not your h2 element.
-      (vii) Delete your h1 element so we can simplify our view.
-      (vii) Create a second p element with the following kitty ipsum text: Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched. Then, create a main element and nest only the two p elements inside the main element.
-      (ix) Within the existing main element, insert an img element before the existing p elements. Now set the src attribute so that it points to the url https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg Finally, don't forget to give your img element an alt attribute with applicable text.
+      (i)    Change your h1 element's text to say "Hello World".
+      (ii)   Add an h2 tag that says "CatPhotoApp" to create a second HTML element below your "Hello World" h1 element.
+      (iii)  Create a p element below your h2 element, and give it the text Hello Paragraph.
+      (iv)   Replace the text inside your p element with the first few words of this kitty ipsum text: Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.
+      (v)    Uncomment your h1, h2 and p elements.
+      (vi)   Comment out your h1 element and your p element, but not your h2 element.
+      (vii)  Delete your h1 element so we can simplify our view.
+      (viii) Create a second p element with the following kitty ipsum text: Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched. Then, create a main element and nest only the two p elements inside the main element.
+      (ix)   Within the existing main element, insert an img element before the existing p elements. Now set the src attribute so that it points to the url https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg Finally, don't forget to give your img element an alt attribute with applicable text.
+      (x)    Create an a element that links to https://www.freecatphotoapp.com and has "cat photos" as its anchor text.
+      (xi)   Change your external link to an internal link by changing the href attribute to #footer and the text from cat photos to Jump to Bottom. Remove the target="_blank" attribute from the anchor tag since this causes the linked document to open in a new window tab. Then add an id attribute with a value of footer to the <footer> element at the bottom of the page.
+      (xii)  Nest the existing a element within a new p element. Do not create a new anchor tag. The new paragraph should have text that says View more cat photos, where cat photos is a link, and the rest is plain text.
+      (xiii) The current value of the href attribute is a link that points to "https://www.freecatphotoapp.com". Replace the href attribute value with a #, also known as a hash symbol, to create a dead link.
+      (xiv)  Place the existing image element within an a (anchor) element. Once you've done this, hover over your image with your cursor. Your cursor's normal pointer should become the link clicking pointer. The photo is now a link.
+
+DAY 013/100: 13 MARCH 2022
+      
+      Basic HTML and HTML5: FREECODECAMP SOLUTIONS (Part 02)
+      
+      (i)    Remove the last two p elements and create an unordered list of three things that cats love at the bottom of the page.
+      (ii)   Create an ordered list of the top 3 things cats hate the most.
+      (iii)  Create an input element of type text below your lists.
+      (iv)   Set the placeholder value of your text input to "cat photo URL".
+
+
 
 
 
