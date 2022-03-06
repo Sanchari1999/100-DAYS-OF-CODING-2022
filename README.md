@@ -87,7 +87,17 @@ DAY 011/100: 11 MARCH 2022
       
 DAY 012/100: 12 MARCH 2022
 
-
+      HTML: FREECODECAMP SOLUTIONS
+      
+      (i) Change your h1 element's text to say "Hello World".
+      (ii) Add an h2 tag that says "CatPhotoApp" to create a second HTML element below your "Hello World" h1 element.
+      (iii) Create a p element below your h2 element, and give it the text Hello Paragraph.
+      (iv) Replace the text inside your p element with the first few words of this kitty ipsum text: Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.
+      (v) Uncomment your h1, h2 and p elements.
+      (vi) Comment out your h1 element and your p element, but not your h2 element.
+      (vii) Delete your h1 element so we can simplify our view.
+      (vii) Create a second p element with the following kitty ipsum text: Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched. Then, create a main element and nest only the two p elements inside the main element.
+      (ix) Within the existing main element, insert an img element before the existing p elements. Now set the src attribute so that it points to the url https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg Finally, don't forget to give your img element an alt attribute with applicable text.
 
 
 
