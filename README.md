@@ -120,8 +120,32 @@ DAY 013/100: 13 MARCH 2022
       (iii)  Create an input element of type text below your lists.
       (iv)   Set the placeholder value of your text input to "cat photo URL".
 
+DAY 014/100: 14 MARCH 2022
 
+      (i)    Java Program: Selection Sort
+      (ii)   Java Program: Insertion Sort
+      (iii)  Java Program: Quick Sort
+      (iv)   Java Program: Binary Heap
+      (v)    Java Program: Binary Sreach in Array
+      (vi)   Java Program:Knapsack of Integers
+      (vii)  Java Program: Bogosort
+      (viii) Java Program: Huffman Coding
+      (ix)   Java Program: Shannon Fano Coding
+      (x)    Java Program: Page Rank
+      (xi)   Java Program: RSA Cryptography
+      (xii)  Java Program: Hamming Code
+      (xiii) Java Program: LZ77 Decompression
+      
+DAY 015/100: 15 MARCH 2022
 
+      (i) Java Program to traverse ArrayList: 
+                  a. using iterator (only forward traversal possible)
+                  b. using list iterator (both forward and backward traversal possible)
+      (ii) Java Program:
+                  a. to traverse linked list using iterator
+                  b. to traverse linked list using list iterator
+
+DAY 016/100: 16 MARCH 2022
 
 
 
