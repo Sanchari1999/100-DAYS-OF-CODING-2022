@@ -1,0 +1,76 @@
+//01. Say Hello to HTML Elements
+<h1>Hello World</h1>
+
+
+//02. Headline with the h2 Element
+<h1>Hello World</h1>
+<h2>CatPhotoApp</h2>
+
+
+//03. Inform with the Paragraph Element
+<h1>Hello World</h1>
+<h2>CatPhotoApp</h2>
+<p>Hello Paragraph</p>
+
+
+//04. Fill in the Blank with Placeholder Text
+<h1>Hello World</h1>
+<h2>CatPhotoApp</h2>
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+
+
+//05. Uncomment HTML
+//Comments in HTML start with <!-- and end with a -->
+
+
+//06. Comment out HTML
+<!--
+<h1>Hello World</h1>
+-->
+<h2>CatPhotoApp</h2>
+<!--
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+-->
+
+
+//07. Delete HTML Elements
+<h2>CatPhotoApp</h2>
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+
+
+//08. Introduction to HTML5 Elements
+<h2>CatPhotoApp</h2>
+<main>
+    <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+    <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>
+
+//09. Add Images To Your Website
+<h2>CatPhotoApp</h2>
+<main>
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
+  <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>
+
+//10. Link to External Pages with Anchor Elements
+<h2>CatPhotoApp</h2>
+<main>
+  <a href="https://www.freecatphotoapp.com">cat photos</a>
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
+  <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>
+
+
+//11. Link to Internal Sections of a Page with Anchor Elements
+
+
+
+
+
+
+
+
+
+
