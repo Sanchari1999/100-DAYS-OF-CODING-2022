@@ -1,0 +1,37 @@
+//01. Change the Color of Text
+<h2 style="color: red;">CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+</main>
+
+//Note that it is a good practice to end inline style declarations with a ; .
+
+
+//02. Use CSS Selectors to Style Elements
+<style> 
+  h2 { 
+    color: blue;
+  } 
+</style>
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+</main>
+
+/*Note that it's important to have both opening and closing curly braces ({ and }) around each element's style rule(s). 
+You also need to make sure that your element's style definition is between the opening and closing style tags. 
+Finally, be sure to add a semicolon to the end of each of your element's style rules.*/
+
+
+//03. Use a CSS Class to Style an Element
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+</main>
+
+//Note that in your CSS style element, class names start with a period. In your HTML elements' class attribute, the class name does not include the period.
