@@ -107,18 +107,29 @@ DAY 012/100: 12 MARCH 2022
       (ix)   Within the existing main element, insert an img element before the existing p elements. Now set the src attribute so that it points to the url https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg Finally, don't forget to give your img element an alt attribute with applicable text.
       (x)    Create an a element that links to https://www.freecatphotoapp.com and has "cat photos" as its anchor text.
       (xi)   Change your external link to an internal link by changing the href attribute to #footer and the text from cat photos to Jump to Bottom. Remove the target="_blank" attribute from the anchor tag since this causes the linked document to open in a new window tab. Then add an id attribute with a value of footer to the <footer> element at the bottom of the page.
-      (xii)  Nest the existing a element within a new p element. Do not create a new anchor tag. The new paragraph should have text that says View more cat photos, where cat photos is a link, and the rest is plain text.
-      (xiii) The current value of the href attribute is a link that points to "https://www.freecatphotoapp.com". Replace the href attribute value with a #, also known as a hash symbol, to create a dead link.
-      (xiv)  Place the existing image element within an a (anchor) element. Once you've done this, hover over your image with your cursor. Your cursor's normal pointer should become the link clicking pointer. The photo is now a link.
+      (xii)   Nest the existing a element within a new p element. Do not create a new anchor tag. The new paragraph should have text that says View more cat photos, where cat photos is a link, and the rest is plain text.
+      (xiii)  The current value of the href attribute is a link that points to "https://www.freecatphotoapp.com". Replace the href attribute value with a #, also known as a hash symbol, to create a dead link.
+      (xiv)   Place the existing image element within an a (anchor) element. Once you've done this, hover over your image with your cursor. Your cursor's normal pointer should become the link clicking pointer. The photo is now a link.
+      (xv)    Remove the last two p elements and create an unordered list of three things that cats love at the bottom of the page.
+      (xvi)   Create an ordered list of the top 3 things cats hate the most.
+      (xvii)  Create an input element of type text below your lists.
+      (xviii) Set the placeholder value of your text input to "cat photo URL".
+      
 
 DAY 013/100: 13 MARCH 2022
       
       Basic HTML and HTML5: FREECODECAMP SOLUTIONS (Part 02)
       
-      (i)    Remove the last two p elements and create an unordered list of three things that cats love at the bottom of the page.
-      (ii)   Create an ordered list of the top 3 things cats hate the most.
-      (iii)  Create an input element of type text below your lists.
-      (iv)   Set the placeholder value of your text input to "cat photo URL".
+      (xix)    Nest the existing input element inside a form element and assign "https://www.freecatphotoapp.com/submit-cat-photo" to the action attribute of the form element.
+      (xx)     Add a button as the last element of your form element with a type of submit, and Submit as its text.
+      (xxi)    Make your text input a required field, so that your user can't submit the form without completing this field. Then try to submit the form without inputting any text. See how your HTML5 form notifies you that the field is required?
+      (xxii)   Add a pair of radio buttons to your form, each nested in its own label element. One should have the option of indoor and the other should have the option of outdoor. Both should share the name attribute of indoor-outdoor to create a radio group.
+      (xxiii)  Add to your form a set of three checkboxes. Each checkbox should be nested within its own label element. All three should share the name attribute of personality.
+      (xxiv)   Give each of the existing radio and checkbox inputs the value attribute. Do not create any new radio or checkbox elements. Use the input label text, in lowercase, as the value for the attribute.
+      (xxv)    Set the first of your radio buttons and the first of your checkboxes to both be checked by default.
+      (xxvi)   Nest your "Things cats love" and "Top 3 things cats hate" lists all within a single div element. Hint: Try putting your opening div tag above your "Things cats love" p element and your closing div tag after your closing ol tag so that both of your lists are within one div.
+      (xxvii)  Add a DOCTYPE tag for HTML5 to the top of the blank HTML document in the code editor. Under it, add opening and closing html tags, which wrap around an h1 element. The heading can include any text.
+      (xxviii) Edit the markup so there's a head and a body. The head element should only include the title, and the body element should only include the h1 and p.
 
 DAY 014/100: 14 MARCH 2022
 
