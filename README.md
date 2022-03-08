@@ -158,5 +158,27 @@ DAY 015/100: 15 MARCH 2022
 
 DAY 016/100: 16 MARCH 2022
 
+      Basic CSS: FREECODECAMP SOLUTIONS (Part 01)
 
+      (i) Change your h2 element's style so that its text color is red.
+      (ii) Delete your h2 element's style attribute, and instead create a CSS style block. Add the necessary CSS to turn all h2 elements blue.
+      (iii) Inside your style element, change the h2 selector to .red-text and update the color's value from blue to red. Give your h2 element the class attribute with a value of red-text.
+      (iv) 
+      
+DAY 017/100: 17 MARCH 2022
 
+      Basic CSS: FREECODECAMP SOLUTIONS (Part 02)      
+
+      (xii)
+
+DAY 018/100: 18 MARCH 2022
+
+      Basic CSS: FREECODECAMP SOLUTIONS (Part 03)
+      
+      (xxii)
+
+DAY 019/100: 19 MARCH 2022
+
+      Basic CSS: FREECODECAMP SOLUTIONS (Part 04)
+      
+      (xxxiii)
