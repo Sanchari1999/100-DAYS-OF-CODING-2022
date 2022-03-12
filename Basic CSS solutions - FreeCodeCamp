@@ -35,3 +35,245 @@ Finally, be sure to add a semicolon to the end of each of your element's style r
 </main>
 
 //Note that in your CSS style element, class names start with a period. In your HTML elements' class attribute, the class name does not include the period.
+
+
+//04. Style Multiple Elements with a CSS Class
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+</main>
+
+
+//05. Change the Font Size of an Element
+<style>
+  .red-text {
+    color: red;
+  }
+  p {
+  font-size: 16px;
+}
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+</main>
+
+
+//06. Set the Font Family of an Element
+<style>
+  .red-text {
+    color: red;
+  }
+  p {
+  font-size: 16px;
+  font-family: monospace;
+}
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+</main>
+
+
+//07. Import a Google Font
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  h2 {
+    font-family: Lobster;
+  }
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+</style>
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+</main>
+
+//To import a Google Font, you can copy the font's URL from the Google Fonts library and then paste it in your HTML.
+
+
+//08. Specify How Fonts Should Degrade
+<!--<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">-->
+<style>
+  .red-text {
+    color: red;
+  }
+  h2 {
+    font-family: Lobster, monospace;
+  }
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+</main>
+
+
+//09. Size Your Images
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .smaller-image {
+    width: 100px;
+  }
+  .red-text {
+    color: red;
+  }
+  h2 {
+    font-family: Lobster, monospace;
+  }
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+<a href="#"><img class="smaller-image" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+</main>
+
+
+//10. Add Borders Around Your Elements
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+  }
+  .red-text {
+    color: red;
+  }
+  h2 {
+    font-family: Lobster, monospace;
+  }
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img class="smaller-image thick-green-border" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+</main>
+
+
+//11. Add Rounded Corners with border-radius
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+  h2 {
+    font-family: Lobster, monospace;
+  }
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+  <a href="#"><img class="smaller-image thick-green-border" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+</main>
+
+
+//12. Make Circular Images with a border-radius
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+  h2 {
+    font-family: Lobster, monospace;
+  }
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+  <a href="#"><img class="smaller-image thick-green-border" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+</main>
+
+
+//13. Give a Background Color to a div Element
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .silver-background {
+  background-color: silver;
+}
+  .red-text {
+    color: red;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <div class="silver-background">
+    <p>Things cats love:</p>
+    <ul>
+      <li>cat nip</li>
+      <li>laser pointers</li>
+      <li>lasagna</li>
+    </ul>
+    <p>Top 3 things cats hate:</p>
+    <ol>
+      <li>flea treatment</li>
+      <li>thunder</li>
+      <li>other cats</li>
+    </ol>
+  </div>
+</main>
+
+
+//14. Set the id of an Element
+
+
+
+
+
+
+
+
+
+
+
+
+
+
