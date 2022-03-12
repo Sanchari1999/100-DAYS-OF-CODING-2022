@@ -263,10 +263,315 @@ Finally, be sure to add a semicolon to the end of each of your element's style r
 
 
 //14. Set the id of an Element
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <form id="cat-photo-form" action="https://freecatphotoapp.com/submit-cat-photo">
+    <label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
+    <label><input type="radio" name="indoor-outdoor"> Outdoor</label><br>
+    <label><input type="checkbox" name="personality" checked> Loving</label>
+    <label><input type="checkbox" name="personality"> Lazy</label>
+    <label><input type="checkbox" name="personality"> Energetic</label><br>
+    <input type="text" placeholder="cat photo URL" required>
+    <button type="submit">Submit</button>
+  </form>
+</main>
+
+//There are several benefits to using id attributes: You can use an id to style a single element and later you'll learn that you can use them to select and modify specific elements with JavaScript.
+//id attributes should be unique. Browsers won't enforce this, but it is a widely agreed upon best practice. So please don't give more than one element the same id attribute.
 
 
+//15. Use an id Attribute to Style an Element
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  #cat-photo-form {
+  background-color: green;
+}
+  .red-text {
+    color: red;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <form id="cat-photo-form" action="https://freecatphotoapp.com/submit-cat-photo">
+    <label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
+    <label><input type="radio" name="indoor-outdoor"> Outdoor</label><br>
+    <label><input type="checkbox" name="personality" checked> Loving</label>
+    <label><input type="checkbox" name="personality"> Lazy</label>
+    <label><input type="checkbox" name="personality"> Energetic</label><br>
+    <input type="text" placeholder="cat photo URL" required>
+    <button type="submit">Submit</button>
+  </form>
+</main>
+
+//Note that inside your style element, you always reference classes by putting a . in front of their names. You always reference ids by putting a # in front of their names.
 
 
+//16. Adjust the Padding of an Element
+<style>
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  .yellow-box {
+    background-color: yellow;
+    padding: 10px;
+  }
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 20px;
+  }
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+  }
+</style>
+<h5 class="injected-text">margin</h5>
+<div class="box yellow-box">
+  <h5 class="box red-box">padding</h5>
+  <h5 class="box blue-box">padding</h5>
+</div>
+
+//An element's padding controls the amount of space between the element's content and its border.
+
+
+//17. Adjust the Margin of an Element
+<style>
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  .yellow-box {
+    background-color: yellow;
+    padding: 10px;
+  }
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+  }
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+  }
+</style>
+<h5 class="injected-text">margin</h5>
+<div class="box yellow-box">
+  <h5 class="box red-box">padding</h5>
+  <h5 class="box blue-box">padding</h5>
+</div>
+
+//An element's margin controls the amount of space between an element's border and surrounding elements.
+
+
+//18. Add a Negative Margin to an Element
+<style>
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  .yellow-box {
+    background-color: yellow;
+    padding: 10px;
+  }
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 20px;
+    margin: -15px;
+  }
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+    margin: -15px;
+  }
+</style>
+<div class="box yellow-box">
+  <h5 class="box red-box">padding</h5>
+  <h5 class="box blue-box">padding</h5>
+</div>
+
+//If you set an element's margin to a negative value, the element will grow larger.
+
+
+//19. Add Different Padding to Each Side of an Element
+<style>
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  .yellow-box {
+    background-color: yellow;
+    padding: 10px;
+  }
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+  }
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+  }
+</style>
+<h5 class="injected-text">margin</h5>
+<div class="box yellow-box">
+  <h5 class="box red-box">padding</h5>
+  <h5 class="box blue-box">padding</h5>
+</div>
+
+
+//20. Add Different Margins to Each Side of an Element
+<style>
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  .yellow-box {
+    background-color: yellow;
+    padding: 10px;
+  }
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+  }
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+  }
+</style>
+<h5 class="injected-text">margin</h5>
+<div class="box yellow-box">
+  <h5 class="box red-box">padding</h5>
+  <h5 class="box blue-box">padding</h5>
+</div>
+
+
+//21. Use Clockwise Notation to Specify the Padding of an Element
+<style>
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  .yellow-box {
+    background-color: yellow;
+    padding: 20px 40px 20px 40px;
+  }
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 20px 40px 20px 40px;
+  }
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 40px 20px 20px 40px;
+  }
+</style>
+<h5 class="injected-text">margin</h5>
+<div class="box yellow-box">
+  <h5 class="box red-box">padding</h5>
+  <h5 class="box blue-box">padding</h5>
+</div>
+
+
+//22. Use Clockwise Notation to Specify the Margin of an Element
+<style>
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  .yellow-box {
+    background-color: yellow;
+    padding: 20px 40px 20px 40px;
+  }
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    margin: 20px 40px 20px 40px;
+  }
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    margin: 40px 20px 20px 40px;
+  }
+</style>
+<h5 class="injected-text">margin</h5>
+<div class="box yellow-box">
+  <h5 class="box red-box">padding</h5>
+  <h5 class="box blue-box">padding</h5>
+</div>
+
+
+//23. Use Attribute Selectors to Style Elements
 
 
 
