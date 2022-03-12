@@ -176,15 +176,24 @@ DAY 017/100: 17 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 02)      
 
-      (xii) Give your cat photo a border-radius of 50%.
-      (xiii) Create a class called silver-background with the background-color of silver. Assign this class to your div element.
-      (xiv) Give your form element the id cat-photo-form.
+      (xii)   Give your cat photo a border-radius of 50%.
+      (xiii)  Create a class called silver-background with the background-color of silver. Assign this class to your div element.
+      (xiv)   Give your form element the id cat-photo-form.
+      (xv)    Try giving your form, which now has the id attribute of cat-photo-form, a green background.
+      (xvi)   Change the padding of your blue box to match that of your red box.
+      (xvii)  Change the margin of the blue box to match that of the red box.
+      (xviii) Try to set the margin to a negative value like the one for the red box. Change the margin of the blue box to -15px, so it fills the entire horizontal width of the yellow box around it.
+      (xix)   Give the blue box a padding of 40px on its top and left side, but only 20px on its bottom and right side.
+      (xx)    Give the blue box a margin of 40px on its top and left side, but only 20px on its bottom and right side.
+      (xxi)   Use Clockwise Notation to give the .blue-box class a padding of 40px on its top and left side, but only 20px on its bottom and right side.
 
 DAY 018/100: 18 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 03)
       
-      (xxii)
+      (xxii)  Use Clockwise Notation to give the element with the blue-box class a margin of 40px on its top and left side, but only 20px on its bottom and right side.
+      (xxiii) Using the type attribute selector, try to give the checkboxes in CatPhotoApp a top margin of 10px and a bottom margin of 15px.
+      
 
 DAY 019/100: 19 MARCH 2022
 
