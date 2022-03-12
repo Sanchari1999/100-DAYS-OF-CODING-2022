@@ -160,16 +160,25 @@ DAY 016/100: 16 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 01)
 
-      (i) Change your h2 element's style so that its text color is red.
-      (ii) Delete your h2 element's style attribute, and instead create a CSS style block. Add the necessary CSS to turn all h2 elements blue.
-      (iii) Inside your style element, change the h2 selector to .red-text and update the color's value from blue to red. Give your h2 element the class attribute with a value of red-text.
-      (iv) 
+      (i)    Change your h2 element's style so that its text color is red.
+      (ii)   Delete your h2 element's style attribute, and instead create a CSS style block. Add the necessary CSS to turn all h2 elements blue.
+      (iii)  Inside your style element, change the h2 selector to .red-text and update the color's value from blue to red. Give your h2 element the class attribute with a value of red-text.
+      (iv)   Classes allow you to use the same CSS styles on multiple HTML elements. You can see this by applying your red-text class to the first p element.
+      (v)    Inside the same <style> tag that contains your red-text class, create an entry for p elements and set the font-size to 16 pixels (16px).
+      (vi)   Make all of your p elements use the monospace font.
+      (vii)  Import the Lobster font to your web page. Then, use an element selector to set Lobster as the font-family for your h2 element.
+      (viii) To begin, apply the monospace font to the h2 element, so that it now has two fonts - Lobster and monospace. In the last challenge, you imported the Lobster font using the link tag. Now comment out that import of the Lobster font (using the HTML comments you learned before) from Google Fonts so that it isn't available anymore. Notice how your h2 element degrades to the monospace font. Note: If you have the Lobster font installed on your computer, you won't see the degradation because your browser is able to find the font.
+      (ix)  Create a class called smaller-image and use it to resize the image so that it's only 100 pixels wide.
+      (x)   Create a class called thick-green-border. This class should add a 10px, solid, green border around an HTML element. Apply the class to your cat photo. Remember that you can apply multiple classes to an element using its class attribute, by separating each class name with a space. For example: <img class="class1 class2">
+      (xi)  You can specify a border-radius with pixels. Give your cat photo a border-radius of 10px. Note: This challenge allows for multiple possible solutions. For example, you may add border-radius to either the .thick-green-border class or the .smaller-image class.
       
 DAY 017/100: 17 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 02)      
 
-      (xii)
+      (xii) Give your cat photo a border-radius of 50%.
+      (xiii) Create a class called silver-background with the background-color of silver. Assign this class to your div element.
+      (xiv) Give your form element the id cat-photo-form.
 
 DAY 018/100: 18 MARCH 2022
 
