@@ -174,32 +174,32 @@ DAY 014/100: 14 MARCH 2022
       
       (xxii)  Use Clockwise Notation to give the element with the blue-box class a margin of 40px on its top and left side, but only 20px on its bottom and right side.
       (xxiii) Using the type attribute selector, try to give the checkboxes in CatPhotoApp a top margin of 10px and a bottom margin of 15px.
-      (xxiv)
-      (xxv)
-      (xxvi)
-      (xxvii)
-      (xxviii)
-      (xxix)
-      (xxx)
-      (xxxi)
-      (xxxii)
+      (xxiv)  Add a padding property to the element with class red-box and set it to 1.5em.
+      (xxv)   We can prove that the body element exists here by giving it a background-color of black.
+      (xxvi)  First, create a h1 element with the text Hello World. Then, let's give all elements on your page the color of green by adding color: green; to your body element's style declaration. Finally, give your body element the font-family of monospace by adding font-family: monospace; to your body element's style declaration.
+      (xxvii) Create a CSS class called pink-text that gives an element the color pink. Give your h1 element the class of pink-text.
+      (xxviii) Create an additional CSS class called blue-text that gives an element the color blue. Make sure it's below your pink-text class declaration. Apply the blue-text class to your h1 element in addition to your pink-text class, and let's see which one wins.
+      (xxix)   Give your h1 element the id attribute of orange-text. Leave the blue-text and pink-text classes on your h1 element. Create a CSS declaration for your orange-text id in your style element.
+      (xxx)    Use an inline style to try to make our h1 element white. Leave the blue-text and pink-text classes on your h1 element.
+      (xxxi)   Let's add the keyword !important to your pink-text element's color declaration to make 100% sure that your h1 element will be pink.
+      (xxxii)  Replace the word black in our body element's background-color with its hex code representation, #000000.
 
 DAY 015/100: 15 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 04)
       
-      (xxxiii)
-      (xxxiv)
-      (xxxv)
-      (xxxvi)
-      (xxxvii)
-      (xxxviii)
-      (xxxix)
-      (xxxx)
-      (xxxxi)
-      (xxxxii)
-      (xxxxiii)
-      (xxxxiv)
+      (xxxiii)  Replace the color words in our style element with their correct hex codes: Dodger Blue #1E90FF, Green #00FF00, Orange #FFA500, Red #FF0000. 
+      (xxxiv)   Go ahead, try using the abbreviated hex codes to color the correct elements: Cyan #0FF, Green #0F0, Red #F00, Fuchsia #F0F.
+      (xxxv)    Let's replace the hex code in our body element's background color with the RGB value for black: rgb(0, 0, 0)
+      (xxxvi)   Replace the hex codes in our style element with their correct RGB values: Blue-rgb(0, 0, 255), Red-rgb(255, 0, 0), Orchid-rgb(218, 112, 214), Sienna-rgb(160, 82, 45).
+      (xxxvii)  In the penguin class, change the black value to gray, the gray value to white, and the yellow value to orange.
+      (xxxviii) In the penguin class, create a variable name --penguin-skin and give it a value of gray.
+      (xxxix)   Apply the --penguin-skin variable to the background property of the penguin-top, penguin-bottom, right-hand and left-hand classes.
+      (xxxx)    It looks like there is a problem with the variables supplied to the .penguin-top and .penguin-bottom classes. Rather than fix the typo, add a fallback value of black to the background property of the .penguin-top and .penguin-bottom classes.
+      (xxxxi)   It looks like a variable is being used to set the background color of the .red-box class. Let's improve our browser compatibility by adding another background declaration right before the existing declaration and set its value to red.
+      (xxxxii)  Define a variable named --penguin-belly in the :root selector and give it the value of pink. You can then see that the variable is inherited and that all the child elements which use it get pink backgrounds.
+      (xxxxiii) Change the value of --penguin-belly to white in the penguin class.
+      (xxxxiv)  In the :root selector of the media query, change it so --penguin-size is redefined and given a value of 200px. Also, redefine --penguin-skin and give it a value of black. Then resize the preview to see this change in action.
 
 DAY 016/100: 16 MARCH 2022
 
@@ -210,15 +210,6 @@ DAY 016/100: 16 MARCH 2022
       (iii)  Java Program: Quick Sort
       (iv)   Java Program: Binary Heap
       (v)    Java Program: Binary Sreach in Array
-      (vi)   Java Program:Knapsack of Integers
-      (vii)  Java Program: Bogosort
-      (viii) Java Program: Huffman Coding
-      (ix)   Java Program: Shannon Fano Coding
-      (x)    Java Program: Page Rank
-      (xi)   Java Program: RSA Cryptography
-      (xii)  Java Program: Hamming Code
-      (xiii) Java Program: LZ77 Decompression
-      (xiv)  Convert java.util.Date to java.sql.Date
       
 DAY 017/100: 17 MARCH 2022
 
@@ -231,3 +222,31 @@ DAY 017/100: 17 MARCH 2022
       (v)   Java Try-Finally Program.   
       (vi)  Java Program to prevent creation of second object.
       (vii) 
+
+Day 018/100: 18 March 2022
+
+      Java Popular Algoriths (Part 02)
+
+      (i)   Java Program:Knapsack of Integers
+      (ii)  Java Program: Bogosort
+      (iii) Java Program: Huffman Coding
+      (iv)   Java Program: Shannon Fano Coding
+      (v)    Java Program: Page Rank
+      (vi)   Java Program: RSA Cryptography
+      (vii)  Java Program: Hamming Code
+      (viii) Java Program: LZ77 Decompression
+      (ix)   Convert java.util.Date to java.sql.Date
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
