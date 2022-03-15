@@ -2,6 +2,8 @@
 
 DAY 001/100: O1 MARCH 2022
 
+      Java Basic Programs (Part 01)
+
       (i)   Java Program to print "HELLO WORLD".
       (ii)  Java Program to accept input from user as integer and string.
       (iii) Java Program for Variable declaration.
@@ -9,11 +11,15 @@ DAY 001/100: O1 MARCH 2022
       
 DAY 002/100: 02 MARCH 2022
 
+      Java Basic Programs (Part 02)
+      
       (i)  Java Program to Call a method.
       (ii) Java Program to calculate Simple Interest (by calling a method).
 
 DAY 003/100: 03 MARCH 2022
 
+      Java Basic Programs (Part 03)
+      
       (i)    Java Program to check voter eligibility (if-else statement).
       (ii)   Java Program to calculate grade of a student (if-else statement).
       (iii)  Java Program to check largest of three numbers (if-else statement).
@@ -30,6 +36,8 @@ DAY 003/100: 03 MARCH 2022
 
 DAY 004/100: 04 MARCH 2022
 
+      Java Basic Programs (Part 04)
+      
       (i) Java Program to call a method of another class:
                           a. Calling a default/public method.
                           b. Calling a static method.
@@ -38,10 +46,14 @@ DAY 004/100: 04 MARCH 2022
       
 DAY 005/100: 05 MARCH 2022
 
+      Java Basic Programs (Part 05)
+      
       (i)  Java Program to check for odd or even number using ternary operator.
       (ii) Java Program to find greatest of three numbers using ternary operator.
 
 DAY 006/100: 06 MARCH 2022
+
+      Java Array Programs (Part 01)
 
       (i)   Java program to insert elements in an array. 
       (ii)  Java Program to find largest integer element in an array.
@@ -50,6 +62,8 @@ DAY 006/100: 06 MARCH 2022
       (v)   Java Program to calculate average of all the inter elements in an array.
 
 DAY 007/100: 07 MARCH 2022
+      
+      Java String Programs (Part 01)
       
       (i)   Java Program to compare two strings.
       (ii)  Java Program to split array at the delimiter.
@@ -60,6 +74,8 @@ DAY 007/100: 07 MARCH 2022
       
 DAY 008/100: 08 MARCH 2022      
       
+      Java Menu Driven Programs (Part 01)
+      
       (i) Java Program to:
                   a. Create a 'simplecalculator' class that would have method to perform addition, subtraction, multiplication and division operations.
                   b. Create a getter setter class that would help user get and set the values on which operation is to be performed.
@@ -67,6 +83,8 @@ DAY 008/100: 08 MARCH 2022
           
 DAY 009/100: 09 MARCH 2022
 
+      Java Menu Driven Programs (Part 02)
+      
       (i)   Java Program:
                   a. To create a restaurant menu application using Java Switch case that would let user place their orders.
                   b. After order is placed, menu would reappear to let user place order again (if they want to).
@@ -79,20 +97,8 @@ DAY 009/100: 09 MARCH 2022
                   e. Bengali Dish - Maach Bhaat, Alu Luchi
                   f. Desserts - Rasmalai, Rasgulla : 2 Pieces, Emarti : 2 Pieces, Gajar ka halwa
       (iii) ATM (Java) Menu Driven Program. 
-
-DAY 010/100: 10 MARCH 2022
-
-      (i) Convert java.util.Date to java.sql.Date
-
-DAY 011/100: 11 MARCH 2022
-
-      (i)   Java Program to handle Arithmetic Exception.
-      (ii)  Java Program to handle ArrayIndexOutOfBoundEx.
-      (iii) Java Program to handle NullPointer Exception.
-      (iv)  Java Program to handle multiple exceptions.
-      (v)   Java Try-Finally Program.
       
-DAY 012/100: 12 MARCH 2022
+DAY 010/100: 10 MARCH 2022
 
       Basic HTML and HTML5: FREECODECAMP SOLUTIONS (Part 01)
       
@@ -116,7 +122,7 @@ DAY 012/100: 12 MARCH 2022
       (xviii) Set the placeholder value of your text input to "cat photo URL".
       
 
-DAY 013/100: 13 MARCH 2022
+DAY 011/100: 11 MARCH 2022
       
       Basic HTML and HTML5: FREECODECAMP SOLUTIONS (Part 02)
       
@@ -131,32 +137,7 @@ DAY 013/100: 13 MARCH 2022
       (xxvii)  Add a DOCTYPE tag for HTML5 to the top of the blank HTML document in the code editor. Under it, add opening and closing html tags, which wrap around an h1 element. The heading can include any text.
       (xxviii) Edit the markup so there's a head and a body. The head element should only include the title, and the body element should only include the h1 and p.
 
-DAY 014/100: 14 MARCH 2022
-
-      (i)    Java Program: Selection Sort
-      (ii)   Java Program: Insertion Sort
-      (iii)  Java Program: Quick Sort
-      (iv)   Java Program: Binary Heap
-      (v)    Java Program: Binary Sreach in Array
-      (vi)   Java Program:Knapsack of Integers
-      (vii)  Java Program: Bogosort
-      (viii) Java Program: Huffman Coding
-      (ix)   Java Program: Shannon Fano Coding
-      (x)    Java Program: Page Rank
-      (xi)   Java Program: RSA Cryptography
-      (xii)  Java Program: Hamming Code
-      (xiii) Java Program: LZ77 Decompression
-      
-DAY 015/100: 15 MARCH 2022
-
-      (i) Java Program to traverse ArrayList: 
-                  a. using iterator (only forward traversal possible)
-                  b. using list iterator (both forward and backward traversal possible)
-      (ii) Java Program:
-                  a. to traverse linked list using iterator
-                  b. to traverse linked list using list iterator
-
-DAY 016/100: 16 MARCH 2022
+DAY 012/100: 12 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 01)
 
@@ -172,7 +153,7 @@ DAY 016/100: 16 MARCH 2022
       (x)   Create a class called thick-green-border. This class should add a 10px, solid, green border around an HTML element. Apply the class to your cat photo. Remember that you can apply multiple classes to an element using its class attribute, by separating each class name with a space. For example: <img class="class1 class2">
       (xi)  You can specify a border-radius with pixels. Give your cat photo a border-radius of 10px. Note: This challenge allows for multiple possible solutions. For example, you may add border-radius to either the .thick-green-border class or the .smaller-image class.
       
-DAY 017/100: 17 MARCH 2022
+DAY 013/100: 13 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 02)      
 
@@ -187,25 +168,66 @@ DAY 017/100: 17 MARCH 2022
       (xx)    Give the blue box a margin of 40px on its top and left side, but only 20px on its bottom and right side.
       (xxi)   Use Clockwise Notation to give the .blue-box class a padding of 40px on its top and left side, but only 20px on its bottom and right side.
 
-DAY 018/100: 18 MARCH 2022
+DAY 014/100: 14 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 03)
       
       (xxii)  Use Clockwise Notation to give the element with the blue-box class a margin of 40px on its top and left side, but only 20px on its bottom and right side.
       (xxiii) Using the type attribute selector, try to give the checkboxes in CatPhotoApp a top margin of 10px and a bottom margin of 15px.
-      
+      (xxiv)
+      (xxv)
+      (xxvi)
+      (xxvii)
+      (xxviii)
+      (xxix)
+      (xxx)
+      (xxxi)
+      (xxxii)
 
-DAY 019/100: 19 MARCH 2022
+DAY 015/100: 15 MARCH 2022
 
       Basic CSS: FREECODECAMP SOLUTIONS (Part 04)
       
       (xxxiii)
+      (xxxiv)
+      (xxxv)
+      (xxxvi)
+      (xxxvii)
+      (xxxviii)
+      (xxxix)
+      (xxxx)
+      (xxxxi)
+      (xxxxii)
+      (xxxxiii)
+      (xxxxiv)
 
-DAY 020/100: 20 MARCH 2022
+DAY 016/100: 16 MARCH 2022
 
-      (i)    
+      Java Popular Algoriths (Part 01)
 
-DAY 021/100: 21 MARCH 2022
-
-      (i)    
+      (i)    Java Program: Selection Sort
+      (ii)   Java Program: Insertion Sort
+      (iii)  Java Program: Quick Sort
+      (iv)   Java Program: Binary Heap
+      (v)    Java Program: Binary Sreach in Array
+      (vi)   Java Program:Knapsack of Integers
+      (vii)  Java Program: Bogosort
+      (viii) Java Program: Huffman Coding
+      (ix)   Java Program: Shannon Fano Coding
+      (x)    Java Program: Page Rank
+      (xi)   Java Program: RSA Cryptography
+      (xii)  Java Program: Hamming Code
+      (xiii) Java Program: LZ77 Decompression
+      (xiv)  Convert java.util.Date to java.sql.Date
       
+DAY 017/100: 17 MARCH 2022
+
+      Java Exception Handling Programs (Part 01)
+      
+      (i)   Java Program to handle Arithmetic Exception.
+      (ii)  Java Program to handle ArrayIndexOutOfBoundEx.
+      (iii) Java Program to handle NullPointer Exception.
+      (iv)  Java Program to handle multiple exceptions.
+      (v)   Java Try-Finally Program.   
+      (vi)  Java Program to prevent creation of second object.
+      (vii) 
