@@ -1,0 +1,5 @@
+/*Bubble Sort is one of the simplest methods to perform such reordering. We will describe it in even simpler way than usually:
+1. Take a pass through array, examining all pairs of adjacent elements (N-1 pairs for array of N elements).
+2. If for any pair with indexes i and i+1 the condition a[i] <= a[i+1] does not hold, swap these two elements.
+3. Repeat such passes through array until the new pass will do no swaps at all.*/
+
