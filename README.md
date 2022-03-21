@@ -237,11 +237,18 @@ Day 018/100: 18 March 2022
       (vii)  Java Program: Hamming Code
       (viii) Java Program: LZ77 Decompression
 
-
-
-Convert java.util.Date to java.sql.Date
+      (MISC) --- Convert java.util.Date to java.sql.Date
       
+Day 019/100: 
 
+      HACKERREANK - LEARNING DATABASES (PART 01)
+      
+      (i) Basics Of Sets And Relation #1
+      (ii) Basics Of Sets And Relation #2
+      (iii) Basics Of Sets And Relation #3
+      (iv) Basics Of Sets And Relation #4
+      (v) Basics Of Sets And Relation #5
+      
 
 
 
