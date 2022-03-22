@@ -1,0 +1,18 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		
+		//declaring the integer and the string array
+		int[] array01 = {000, 666, 111, 777, 222, 888, 333, 999, 444, 555};
+		String[] array02={"aa", "dd", "ee", "yy", "kk", "ii", "qq"};
+		
+		System.out.println("Original Integer array:" + Arrays.toString(array01));
+		Arrays.sort(array01);
+		System.out.println("Sorted Integer array:" + Arrays.toString(array01));
+		
+		System.out.println("Original String array:" + Arrays.toString(array02));
+		Arrays.sort(array02);
+		System.out.println("Sorted String array:" + Arrays.toString(array02));
+	}
+}
