@@ -1,0 +1,23 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int array[]= new int[10];
+		int largest=0;
+		
+		System.out.println("Enter 10 array elements:");
+		
+		for(int i=0; i<10; i++){
+		    array[i]=sc.nextInt();
+		}
+		
+		for(int j=0; j<10; j++){
+		    if(array[j]>largest){
+		        largest=array[j];
+		    }
+		}
+		System.out.println("The largest array element is" + largest);
+	}
+}
