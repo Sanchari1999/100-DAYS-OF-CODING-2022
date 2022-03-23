@@ -239,7 +239,7 @@ Day 018/100: 18 March 2022
 
       (MISC) --- Convert java.util.Date to java.sql.Date
       
-Day 019/100: 
+Day 019/100: 21 MARCH 2022
 
       HACKERREANK - LEARNING DATABASES (PART 01)
       
@@ -248,7 +248,14 @@ Day 019/100:
       (iii) Basics Of Sets And Relation #3
       (iv) Basics Of Sets And Relation #4
       (v) Basics Of Sets And Relation #5
+
+
+Day 020/100: 22 MARCH 2022
+
+      Java Array Programs (Part 02)
       
+      (i) Java Program: to sort a numeric array and a string array. 
+      (ii) 
 
 
 
