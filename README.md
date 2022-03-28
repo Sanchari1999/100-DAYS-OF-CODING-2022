@@ -60,6 +60,7 @@ DAY 006/100: 06 MARCH 2022
       (iii) Java Program to count number of odd integers in an array.
       (iv)  Java Program to print integer elements in an array in reverse.
       (v)   Java Program to calculate average of all the inter elements in an array.
+      (vi)  Java Program to sort a numeric array and a string array. 
 
 DAY 007/100: 07 MARCH 2022
       
@@ -250,12 +251,62 @@ Day 019/100: 21 MARCH 2022
       (v) Basics Of Sets And Relation #5
 
 
-Day 020/100: 22 MARCH 2022
+Day 020/100: 28 MARCH 2022
 
-      Java Array Programs (Part 02)
+      Applied Visual Design: FREECODECAMP Solutions 
       
-      (i) Java Program: to sort a numeric array and a string array. 
-      (ii) 
+      (i) Create Visual Balance Using the text-align Property
+      (ii) Adjust the Width of an Element Using the width Property
+      (iii) 
+      (iv)
+      (v)
+      (vi)
+      (vii)
+      (viii)
+      (ix)
+      (x)
+      (xi)
+      (xii)
+      (xiii)
+      (xiv)
+      (xv)
+      (xvi)
+      (xvii)
+      (xviii)
+      (xix)
+      (xx)
+      (xxi)
+      (xxii)
+      (xxiii)
+      (xxiv)
+      (xxv)
+      (xxvi)
+      (xxvii)
+      (xxviii)
+      (xxix)
+      (xxx)
+      (xxxi)
+      (xxxii)
+      (xxxiii)
+      (xxxiv)
+      (xxxv)
+      (xxxvi)
+      (xxxvii)
+      (xxxviii)
+      (xxxix)
+      (xxxx)
+      (xxxxi)
+      (xxxxii)
+      (xxxxiii)
+      (xxxxiv)
+      (xxxxv)
+      (xxxxvi)
+      (xxxxvii)
+      (xxxxviii)
+      (xxxxix)
+      (xxxxx)
+      (xxxxxi)
+      (xxxxxii)
 
 
 
