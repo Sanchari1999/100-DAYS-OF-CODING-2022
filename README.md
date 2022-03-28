@@ -280,33 +280,33 @@ Day 020/100: 28 MARCH 2022
       (xxiii) Push Elements Left or Right with the float Property
       (xxiv) Change the Position of Overlapping Elements with the z-index Property
       (xxv) Center an Element Horizontally Using the margin Property
-      (xxvi) 
-      (xxvii)
-      (xxviii)
-      (xxix)
-      (xxx)
-      (xxxi)
-      (xxxii)
-      (xxxiii)
-      (xxxiv)
-      (xxxv)
-      (xxxvi)
-      (xxxvii)
-      (xxxviii)
-      (xxxix)
-      (xxxx)
-      (xxxxi)
-      (xxxxii)
-      (xxxxiii)
-      (xxxxiv)
-      (xxxxv)
-      (xxxxvi)
-      (xxxxvii)
-      (xxxxviii)
-      (xxxxix)
-      (xxxxx)
-      (xxxxxi)
-      (xxxxxii)
+      (xxvi) Learn about Complementary Colors
+      (xxvii) Learn about Tertiary Colors
+      (xxviii) Adjust the Color of Various Elements to Complementary Colors
+      (xxix) Adjust the Hue of a Color
+      (xxx) Adjust the Tone of a Color
+      (xxxi) Create a Gradual CSS Linear Gradient
+      (xxxii) Use a CSS Linear Gradient to Create a Striped Element
+      (xxxiii) Create Texture by Adding a Subtle Pattern as a Background Image
+      (xxxiv) Use the CSS Transform scale Property to Change the Size of an Element
+      (xxxv) Use the CSS Transform scale Property to Scale an Element on Hover
+      (xxxvi) Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
+      (xxxvii) Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+      (xxxviii) Create a Graphic Using CSS
+      (xxxix) Create a More Complex Shape Using CSS and HTML
+      (xxxx) Learn How the CSS @keyframes and animation Properties Work
+      (xxxxi) Use CSS Animation to Change the Hover State of a Button
+      (xxxxii) Modify Fill Mode of an Animation
+      (xxxxiii) Create Movement Using CSS Animation
+      (xxxxiv) Create Visual Direction by Fading an Element from Left to Right
+      (xxxxv) Animate Elements Continually Using an Infinite Animation Count
+      (xxxxvi) Make a CSS Heartbeat using an Infinite Animation Count
+      (xxxxvii) Animate Elements at Variable Rates
+      (xxxxviii) Animate Multiple Elements at Variable Rates
+      (xxxxix) Change Animation Timing with Keywords
+      (xxxxx) Learn How Bezier Curves Work
+      (xxxxxi) Use a Bezier Curve to Move a Graphic
+      (xxxxxii) Make Motion More Natural Using a Bezier Curve
 
 
 
