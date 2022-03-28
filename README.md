@@ -257,30 +257,30 @@ Day 020/100: 28 MARCH 2022
       
       (i) Create Visual Balance Using the text-align Property
       (ii) Adjust the Width of an Element Using the width Property
-      (iii) 
-      (iv)
-      (v)
-      (vi)
-      (vii)
-      (viii)
-      (ix)
-      (x)
-      (xi)
-      (xii)
-      (xiii)
-      (xiv)
-      (xv)
-      (xvi)
-      (xvii)
-      (xviii)
-      (xix)
-      (xx)
-      (xxi)
-      (xxii)
-      (xxiii)
-      (xxiv)
-      (xxv)
-      (xxvi)
+      (iii) Adjust the Height of an Element Using the height Property
+      (iv) Use the strong Tag to Make Text Bold
+      (v) Use the u Tag to Underline Text
+      (vi) Use the em Tag to Italicize Text 
+      (vii) Use the s Tag to Strikethrough Text
+      (viii) Create a Horizontal Line Using the hr Element
+      (ix) Adjust the background-color Property of Text
+      (x) Adjust the Size of a Heading Element Versus a Paragraph Element
+      (xi) Add a box-shadow to a Card-like Element
+      (xii) Decrease the Opacity of an Element
+      (xiii) Use the text-transform Property to Make Text Uppercase
+      (xiv) Set the font-size for Multiple Heading Elements
+      (xv) Set the font-weight for Multiple Heading Elements
+      (xvi) Set the font-size of Paragraph Text
+      (xvii) Set the line-height of Paragraphs
+      (xviii) Adjust the Hover State of an Anchor Tag
+      (xix) Change an Element's Relative Position
+      (xx) Move a Relatively Positioned Element with CSS Offsets
+      (xxi) Lock an Element to its Parent with Absolute Positioning
+      (xxii) Lock an Element to the Browser Window with Fixed Positioning
+      (xxiii) Push Elements Left or Right with the float Property
+      (xxiv) Change the Position of Overlapping Elements with the z-index Property
+      (xxv) Center an Element Horizontally Using the margin Property
+      (xxvi) 
       (xxvii)
       (xxviii)
       (xxix)
