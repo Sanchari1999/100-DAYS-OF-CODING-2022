@@ -309,7 +309,32 @@ Day 020/100: 28 MARCH 2022
       (xxxxxii) Make Motion More Natural Using a Bezier Curve
 
 
+Day 021/100: 31 MARCH 2022
 
+      Applied Accessibility: FREECODECAMP Solutions
+      
+      (i) Add a Text Alternative to Images for Visually Impaired Accessibility
+      (ii) Know When Alt Text Should be Left Blank
+      (iii) Use Headings to Show Hierarchical Relationships of Content
+      (iv) Jump Straight to the Content Using the main Element
+      (v) Wrap Content in the article Element
+      (vi) Make Screen Reader Navigation Easier with the header Landmark
+      (vii) Make Screen Reader Navigation Easier with the nav Landmark
+      (viii) Make Screen Reader Navigation Easier with the footer Landmark
+      (ix) Improve Accessibility of Audio Content with the audio Element
+      (x) Improve Chart Accessibility with the figure Element
+      (xi) Improve Form Field Accessibility with the label Element
+      (xii) Wrap Radio Buttons in a fieldset Element for Better Accessibility
+      (xiii)
+      (xiv)
+      (xv)
+      (xvi)
+      (xvii)
+      (xviii)
+      (xix)
+      (xx)
+      (xxi)
+      (xxii)
 
 
 
